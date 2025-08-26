@@ -1,6 +1,7 @@
 {
   // editor
   "editor.wordWrap": "on",
+  "editor.fontSize": 16,
   "editor.lineHeight": 30,
   "editor.tabSize": 2,
   "editor.bracketPairColorization.enabled": true,
@@ -29,7 +30,5 @@
       "source": "Git Bash"
     }
   },
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "workbench.colorTheme": "GitHub Dark Default",
-  "editor.fontSize": 16
+  "terminal.integrated.defaultProfile.windows": "Git Bash"
 }
