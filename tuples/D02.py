@@ -1,4 +1,4 @@
-table = ('Flamengo', 'Palmeiras', 'Cruzeiro', 'Bahia', 'Botafogo', 'Mirassol', 'São Paulo', 'Bragantino', 'Fluminense', 'Ceará', 'Corinthians', 'Atlético-MG', 'Internacional', 'Grêmio', 'Santos', 'Vasco', 'Vitória', 'Juventude', 'Fortaleza', 'Sport')
+table = ('Flamengo', 'Palmeiras', 'Cruzeiro', 'Bahia', 'Botafogo', 'Mirassol', 'São Paulo', 'Bragantino', 'Fluminense', 'Ceará', 'Corinthians', 'Atlético - MG', 'Internacional', 'Grêmio', 'Santos', 'Vasco', 'Vitória', 'Juventude', 'Fortaleza', 'Sport')
 
 print ('Times do Brasileirão: {}.' .format(table))
 print ('Os primeiros 5 colocados são {}.' .format(table[0:5]))
